@@ -1,3 +1,5 @@
+### This is an actively maintained fork of REAL Video Enhancer with bug fixes, stability improvements, and performance optimizations applied on top of the archived upstream.
+---
 <div align="center" id="nunchaku_logo">
   <img src="https://huggingface.co/datasets/nunchaku-ai/cdn/resolve/main/logo/v2/nunchaku-compact-transparent.png" alt="logo" width="220"></img>
 </div>
